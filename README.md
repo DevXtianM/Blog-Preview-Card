@@ -29,9 +29,7 @@ Users should be able to:
 ![Screenshot of Mobile Screen](https://github.com/DevXtianM/Blog-Preview-Card/blob/main/screenshot/Mobile.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://devxtianm.github.io/Blog-Preview-Card/)
 
 ## My process
 
