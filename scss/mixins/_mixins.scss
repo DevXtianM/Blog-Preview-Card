@@ -1,0 +1,36 @@
+@import '../base/typography';
+
+@mixin FlexCenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@mixin TextPreset1{
+    font-family: $Figtree-ExtraBold;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0px;
+}
+
+@mixin TextPreset2{
+    font-family: $Figtree-Medium;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0px;
+}
+
+@mixin TextPreset3{
+    font-family: url(assets\fonts\static\Figtree-SemiBold.ttf);
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0px;
+}
+
+@mixin TextPreset4-Bold{
+    font-family: $Figtree-ExtraBold;
+    font-size: 14;
+    line-height: 150%;
+    letter-spacing: 0px;
+}
+
