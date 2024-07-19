@@ -26,7 +26,7 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot of Desktop](https://github.com/DevXtianM/Blog-Preview-Card/blob/main/screenshot/Desktop.png)
-![Screenshot of Mobile Screen]([screenshot\Mobile.png](https://github.com/DevXtianM/Blog-Preview-Card/blob/main/screenshot/Mobile.png))
+![Screenshot of Mobile Screen](https://github.com/DevXtianM/Blog-Preview-Card/blob/main/screenshot/Mobile.png)
 
 ### Links
 
